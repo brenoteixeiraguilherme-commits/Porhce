@@ -1,16 +1,12 @@
-# Porsche — Portfólio conceitual
+# Brasa Burger — Lanches & Hambúrgueres
 
-Experiência visual independente inspirada no universo de design automotivo premium. **Este projeto é conceitual e não é afiliado, patrocinado ou aprovado pela Porsche AG.**
+Site demonstrativo de uma hamburgueria artesanal, com cardápio de 10 opções, filtros por categoria e sacola interativa.
 
 ## Tecnologias
 - React + TypeScript
 - Vite
 - Tailwind CSS
 - Lucide React
-
-## Requisitos
-- Node.js 20.19+ ou 22.12+
-- npm
 
 ## Executar localmente
 ```bash
@@ -29,9 +25,11 @@ npm run preview
 2. Confirme o preset **Vite**.
 3. Build command: `npm run build`.
 4. Output directory: `dist`.
-5. Clique em **Deploy** quando estiver pronto para publicar.
+5. Clique em **Deploy**.
 
-Nenhum deploy é executado automaticamente por este repositório.
+## Antes de usar comercialmente
+- Troque o número de exemplo do WhatsApp (`5500000000000`) pelo número real da loja no arquivo `src/App.tsx`.
+- Confirme preços, ingredientes, disponibilidade, informações de entrega e alergênicos.
+- As imagens são carregadas de URLs públicas do Unsplash; confira os termos aplicáveis antes do uso comercial.
 
-## Imagens
-As fotografias são carregadas de URLs públicas do Unsplash. É necessária conexão com a internet para exibi-las. Confira os termos e a atribuição aplicáveis antes de usar o projeto comercialmente.
+Os nomes, preços e detalhes do cardápio são exemplos fictícios para demonstração.
