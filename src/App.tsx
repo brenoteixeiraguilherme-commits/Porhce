@@ -149,7 +149,7 @@ function App() {
       </section>
 
       <section className="experience" id="essencia">
-        <div className="experience-image" role="img" aria-label="Automóvel esportivo em estrada sinuosa cercada por montanhas" />
+        <div className="experience-image" role="img" aria-label="Automóvel esportivo em uma composição cinematográfica de luz e sombra" />
         <div className="experience-overlay" />
         <div className="experience-content">
           <p className="eyebrow"><span className="section-number">03 /</span> A EXPERIÊNCIA</p>
